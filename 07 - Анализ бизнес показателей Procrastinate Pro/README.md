@@ -41,4 +41,4 @@
 
 <b>Проект завершен</b>
 
-[Ссылка на тетрадь]()
+[Ссылка на тетрадь](https://github.com/obertas-artem/my_portfolio/blob/main/07%20-%20Анализ%20бизнес%20показателей%20Procrastinate%20Pro/07%20-%20Анализ%20бизнес%20показателей%20Procrastinate%20Pro.ipynb)
