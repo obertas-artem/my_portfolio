@@ -27,7 +27,7 @@
 
 <b>Проект завершен</b>
 
-[Ссылка на тетрадь](https://github.com/obertas-artem/my_projects/blob/main/13%20-%20Выпускной%20проект/13%20-%201%20-%20Когортный%20анализ%20приложения%20для%20продажи%20вещей%20collab.ipynb)
+[Ссылка на тетрадь](https://github.com/obertas-artem/my_portfolio/blob/main/15%20-%20Выпускной%20проект%2C%20когортный%20анализ%20приложения%20для%20продажи%20вещей/13%20-%201%20-%20Когортный%20анализ%20приложения%20для%20продажи%20вещей%20collab.ipynb)
 
 [Ссылка на тетрадь в collab](https://colab.research.google.com/gist/obertas-artem/f9434ac38eea79d3f7ed5a51a16d4a18/13-1.ipynb)
 
