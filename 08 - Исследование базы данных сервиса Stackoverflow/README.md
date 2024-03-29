@@ -9,7 +9,7 @@
 Исследование, связанное с базой данных сервиса StackOverflow.
 
 ---
-
+![alt text](https://github.com/obertas-artem/my_portfolio/blob/main/08%20-%20Исследование%20базы%20данных%20сервиса%20Stackoverflow/Frame_353_1_1665147222.png)
 <b>Проект завершен</b>
 
 [Ссылка на тетрадь](https://github.com/obertas-artem/my_portfolio/blob/main/08%20-%20Исследование%20базы%20данных%20сервиса%20Stackoverflow/08%20-%20Исследование%20базы%20данных%20сервиса%20Stackoverflow.ipynb)
