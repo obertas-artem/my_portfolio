@@ -28,5 +28,5 @@
 
 <b>Проект завершен</b>
 
-[Ссылка на тетрадь](https://github.com/obertas-artem/my_projects/blob/main/13%20-%20Выпускной%20проект/13%20-%203%20-%20SQL_блок.ipynb)
+[Ссылка на тетрадь](https://github.com/obertas-artem/my_portfolio/blob/main/13%20-%20Выпускной%20проект%2C%20SQL%20блок%20для%20онлайн%20библиотеки/13%20-%203%20-%20SQL_блок.ipynb)
 
