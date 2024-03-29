@@ -29,7 +29,7 @@
 
 <b>Проект завершен</b>
 
-[Ссылка на тетрадь](https://github.com/obertas-artem/my_projects/blob/main/13%20-%20Выпускной%20проект/13%20-%202%20-%20Оценка%20результатов%20AB%20теста%20collab.ipynb)
+[Ссылка на тетрадь](https://github.com/obertas-artem/my_portfolio/blob/main/14%20-%20Выпускной%20проект%2C%20оценка%20результатов%20AB%20теста/13%20-%202%20-%20Оценка%20результатов%20AB%20теста%20collab.ipynb)
 
 [Ссылка на тетрадь в collab](https://colab.research.google.com/gist/obertas-artem/d9ec2f1650c76cfeebec95c47b2befe8/13-2-ab.ipynb)
 
