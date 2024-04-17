@@ -19,3 +19,5 @@
 [Ссылка на тетрадь](https://github.com/obertas-artem/my_portfolio/blob/main/06%20-%20cб2%20-%20Исследование%20уровня%20потребительской%20лояльности%20телеком.%20компании/06%20-%20Исследование%20уровня%20потребительской%20лояльности%20телеком.%20компании.ipynb)
 
 [Дашбоард](https://public.tableau.com/app/profile/artem7301/viz/Dashtele/Dashboardtele)
+
+[Презентация](https://disk.yandex.ru/i/4gB1zdTw8RugHQ)
