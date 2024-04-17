@@ -33,3 +33,5 @@
 [Ссылка на тетрадь в collab](https://colab.research.google.com/gist/obertas-artem/f9434ac38eea79d3f7ed5a51a16d4a18/13-1.ipynb)
 
 [Дашбоард](https://public.tableau.com/app/profile/artem7301/viz/_16966927235140/sheet4)
+
+[Презентация](https://disk.yandex.ru/i/qgfgy358MAtQJw)
