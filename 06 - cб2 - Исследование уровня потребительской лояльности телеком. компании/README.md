@@ -20,4 +20,4 @@
 
 [Дашбоард](https://public.tableau.com/app/profile/artem7301/viz/Dashtele/Dashboardtele)
 
-[Презентация](https://disk.yandex.ru/i/4gB1zdTw8RugHQ)
+
